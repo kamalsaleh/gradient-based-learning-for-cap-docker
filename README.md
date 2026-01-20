@@ -1,1 +1,1 @@
-# Docker image for [GradientDescentForCAP](https://github.com/homalg-project/GradientDescentForCAP)
+# Docker image for [GradientBasedLearningForCAP](https://github.com/homalg-project/GradientBasedLearningForCAP)
